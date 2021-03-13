@@ -1,0 +1,14 @@
+
+.App {
+  background-image: url( './images/background_image.jpg');
+  text-align: center;
+
+    /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 969px;
+}
+
+
+
